@@ -1,0 +1,9 @@
+// ./tsconfig.json
+
+{
+  "compilerOptions": {
+    "outDir": "./dist/",
+    "target": "es5",
+    "jsx": "react"
+  }
+}
